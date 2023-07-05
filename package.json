@@ -1,0 +1,35 @@
+{
+    "name": "@piperguy/plop-helper",
+    "version": "0.1.0",
+    "description": "💧 plop helper",
+    "keywords": [
+        "plop",
+        "plop-pack",
+        "plop-helper",
+        "helper"
+    ],
+    "bugs": {
+        "url": "https://github.com/piperguy/plop-helper/issues"
+    },
+    "license": "MIT",
+    "author": {
+        "name": "Naveen Pandurangi",
+        "email": "naveenppandurangi@gmail.com",
+        "url": "https://piperguy.github.io"
+    },
+    "main": "index.js",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/piperguy/plop-helper"
+    },
+    "scripts": {},
+    "dependencies": {},
+    "devDependencies": {
+        "babel-eslint": "^10.1.0",
+        "eslint": "^7.5.0",
+        "eslint-plugin-jsx-a11y": "^6.3.1",
+        "eslint-plugin-react": "^7.20.4",
+        "eslint-plugin-react-hooks": "^4.0.8"
+    },
+    "peerDependencies": {}
+}
